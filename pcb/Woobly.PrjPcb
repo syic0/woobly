@@ -73,12 +73,29 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KDODKCLJ
 
+[Document3]
+DocumentPath=Microcontroller and UI.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VJCCUFNL
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
 ConstraintFileCount=0
 ReleaseItemId=15DA4EDF-CC89-47AE-9F7F-FF9A20F384FE
-CurrentRevision=88A50B93-7DE9-4DBF-9579-2AA0CB0CC568
+CurrentRevision=88484C23-AEF6-47DC-A367-CD8CFB30D155
 Variant=[No Variations]
 GenerateBOM=0
 OutputJobsCount=1
