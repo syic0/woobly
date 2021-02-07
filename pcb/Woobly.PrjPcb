@@ -90,12 +90,29 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VJCCUFNL
 
+[Document4]
+DocumentPath=Peripherals connectors.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WLCSKUQH
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
 ConstraintFileCount=0
 ReleaseItemId=15DA4EDF-CC89-47AE-9F7F-FF9A20F384FE
-CurrentRevision=88484C23-AEF6-47DC-A367-CD8CFB30D155
+CurrentRevision=B12EEFBF-1E61-488F-A339-3E07535EDDE9
 Variant=[No Variations]
 GenerateBOM=0
 OutputJobsCount=1
